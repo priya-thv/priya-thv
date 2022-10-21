@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-thv&show_icons=true&theme=highcontrast&locale=en" alt="priya-thv" /></p>
 
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya-thv&theme=highcontrast" alt="priya-thv /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya-thv&theme=highcontrast" alt="priya-thv" /></p>
 
 [twitter]: https://twitter.com/PRIYACoder
 [instagram]: https://www.instagram.com/eunbyul_v
