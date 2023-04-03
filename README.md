@@ -1,4 +1,4 @@
-<h1 align="center">Annyeonghasey, I'm Priya</h1>
+<h1 align="center">Hiwi, I'm Priya</h1>
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
 <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/5f583ad3a4f8ba0885559313d0ceb05e/5f6fc9e2c981269c-4a/s500x750/831bf55985737ade79fa2e9891222223ff26b1b6.gifv">
 
