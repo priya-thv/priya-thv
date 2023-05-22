@@ -1,6 +1,6 @@
 <h1 align="center">Hiwi, I'm Priya</h1>
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
-<img align="right" alt="gif" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimecorner.me%2Fspy-x-family-episode-6-one-punch-anya%2F&psig=AOvVaw3Vrc8Q20UB8kpxxrUZ4fVS&ust=1684831503678000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDY99fEiP8CFQAAAAAdAAAAABAD">
+<img align="right" alt="gif" width="300" src="https://giphy.com/gifs/swaps4-fOi30B0EJ2V2o4GEcf">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=&color=0e75b6)
 - 🔭 I’m currently working on a my skills.
