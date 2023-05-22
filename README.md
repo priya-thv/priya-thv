@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/fOi30B0EJ2V2o4GEcf/giphy.gif">
 
-![GitHub Views](https://komarev.com/ghpvc/?username=&color=0e75b6)
+![GitHub Views](https://komarev.com/ghpvc/?username=priya-thv&color=0e75b6)
 - 🔭 I’m currently working on a my skills.
 - 🌱 I’m currently learning Data Structures and Algorithms in C++.
 - 👯 I’m looking to collaborate with other developers.
