@@ -1,6 +1,6 @@
 <h1 align="center">Hiwi, I'm Priya</h1>
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
-<img align="right" alt="gif" width="300" src="https://media0.giphy.com/media/u5BzptR1OTZ04/giphy.gif?cid=ecf05e47s7zsnk22eqlkeoyxxxze9xppo7tuc2h3v40l43mw&rid=giphy.gif&ct=g">
+<img align="right" alt="gif" width="300" src="https://media0.giphy.com/media/u5BzptR1OTZ04/giphy.gif?cid=ecf05e47s7zsnk22eqlkeoyxxxze9xppo7tuc2h3v40l43mw&rid=giphy.gif&ct=g](https://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba)">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=&color=0e75b6)
 - 🔭 I’m currently working on a my skills.
