@@ -1,6 +1,6 @@
 <h1 align="center">Hiwi, I'm Priya</h1>
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
-<img align="right" width="400" src="https://animecorner.me/wp-content/uploads/2022/05/Spy-x-family-06-31.png">
+<img align="right" width="400" src="https://media.giphy.com/media/fOi30B0EJ2V2o4GEcf/giphy.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=&color=0e75b6)
 - 🔭 I’m currently working on a my skills.
