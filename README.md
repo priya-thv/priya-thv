@@ -1,6 +1,6 @@
 <h1 align="center">Hiwi, I'm Priya</h1>
 <h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
-<img align="right" alt="gif" width="300" src="[![image](https://github.com/priya-thv/priya-thv/assets/107272239/7c0b3f0f-7ed3-41ec-b532-263f7756d4ed)](https://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba)">
+<img align="right" alt="gif" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimecorner.me%2Fspy-x-family-episode-6-one-punch-anya%2F&psig=AOvVaw3Vrc8Q20UB8kpxxrUZ4fVS&ust=1684831503678000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDY99fEiP8CFQAAAAAdAAAAABAD">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=&color=0e75b6)
 - 🔭 I’m currently working on a my skills.
