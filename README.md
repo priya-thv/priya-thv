@@ -1,14 +1,14 @@
-<h1 align="center">Hiwi, I'm Priya</h1>
-<h3 align="center">I'm a Coder, Writer and BTS Army.</h3>
+<h1 align="center">Hello, I'm Priya</h1>
+<h3 align="center">I'm a Problem Solver.</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/fOi30B0EJ2V2o4GEcf/giphy.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=priya-thv&color=0e75b6)
-- 🔭 I’m currently working on a my skills.
-- 🌱 I’m currently learning Data Structures and Algorithms in C++.
+- 🔭 I’m currently working on myself and my habits.
+- 🌱 I’m currently learning Data Structures and Algorithms in C++ and web development.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Python,c++,c.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: BTS's CEO could not recognize V for a year..
+- ⚡ Fun fact: BTS's CEO could not recognize V for a year.
 
 ## LANGUAGES & TOOLS
 <div align="center">
@@ -34,9 +34,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="priya | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="priya | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="priya | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Priya | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Priya | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Priya | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 <br />
@@ -44,5 +44,5 @@
 
 
 [twitter]: https://twitter.com/PRIYACoder
-[instagram]: https://www.instagram.com/eunbyul_v
+[instagram]: https://www.instagram.com/_.haeun._11
 [linkedin]: https://www.linkedin.com/in/priya-k-3a2300240
