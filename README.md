@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Python,c++,c.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: BTS's CEO could not recognize V for a year.
+- ⚡ Fun fact: 
 
 ## LANGUAGES & TOOLS
 <div align="center">
