@@ -3,12 +3,12 @@
 <img align="right" width="400" src="https://media.giphy.com/media/fOi30B0EJ2V2o4GEcf/giphy.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=priya-thv&color=0e75b6)
-- 🔭 I’m currently working on javascript, node.js.
-- 🌱 I’m currently learning Data Structures and Algorithms in C++ and web development.
+- 🔭 I’m currently working on node.js, react.js.
+- 🌱 I’m currently learning Backend web Development, advanced Data structure, and algorithms.
 - 👯 I’m looking to collaborate with other developers.
-- 💬 Ask me about Python,c++,c.
+- 💬 Ask me about Python,c++,c,javascript.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can make time for anything
 
 ## LANGUAGES & TOOLS
 <div align="center">
