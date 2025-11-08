@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/fOi30B0EJ2V2o4GEcf/giphy.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=priya-thv&color=0e75b6)
-- 🔭 I’m currently working on AI/ML.
+- 🔭 I’m currently Exploring AI/ML & AWS.
 - 🌱 I’m currently learning Backend web Development, advanced Data structure, and algorithms.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Python,c++,c,javascript.
